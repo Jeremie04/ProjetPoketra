@@ -42,3 +42,18 @@ create table matiereLook(
     id_matiere int references matiere(id)
 ); 
 
+create table modele(
+    id serial primary key,
+    nom varchar(100),
+    id_type int references type(id),
+    id_look int references look(id)
+);
+
+create table quantite(
+    id serial primary key,
+    id_modele int references modele(id),
+    id_matiere_look int references matiereLook(id),
+    id_taille int references taille(id),
+    quantite decimal
+);
+

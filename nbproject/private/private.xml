@@ -3,22 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/src/java/controller/MatiereController.java</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/web/ajoutMatiere.jsp</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/web/matiereParLook.jsp</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/src/java/controller/TailleController.java</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/database/Table.sql</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/web/layOut/sideBar.jsp</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/web/ajoutTaille.jsp</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/database/Data.sql</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/src/java/controller/UniteController.java</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/web/ajoutLook.jsp</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/database/View.sql</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/web/ajoutUnite.jsp</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/web/layOut/header.jsp</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/src/java/controller/LookController.java</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/src/java/model/sac/Matiere.java</file>
-            <file>file:/D:/ITU/S5/Mme%20Baovola/Projet_Poketra/web/ajoutType.jsp</file>
+            <file>file:/D:/ITU/S5/Mme%20Baovola/ProjetPoketra/database/Table.sql</file>
         </group>
     </open-files>
 </project-private>

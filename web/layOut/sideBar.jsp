@@ -24,6 +24,7 @@
                     <div class="row">
                         <a href="<%=request.getContextPath()%>/MatiereController" class="nav-link"><li class="list-group-item border-0">Ajout Matiere</li></a>
                         <a href="<%=request.getContextPath()%>/MatiereParLookController" class="nav-link"><li class="list-group-item border-0">Matiere par Look</li></a>
+                        <a href="<%=request.getContextPath()%>/ModeleController" class="nav-link"><li class="list-group-item border-0">Creation Modele</li></a>
                     </div>
                     <a href="#" class="btn btn-light container-fluid mt-5">
                         Deconnecter
